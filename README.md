@@ -1,17 +1,6 @@
-# A talk template
+# What needs to change in the way we work and teach, to support reproducibility
 
-Rename the `the_talk.md` file.
+Talk for the Open Research Forum, Birmingham University, 17 June 2021.
 
-```
-git submodule update --init
-```
-
-```
-make
-```
-
-Eventually consider adding the built PDF files:
-
-```
-git add -f *.pdf
-```
+In so far as the material here is my copyright (Matthew Brett), I release it
+under [CC-by](https://creativecommons.org/licenses/by/4.0/).
