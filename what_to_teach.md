@@ -80,6 +80,8 @@ Westheimer](https://en.wikiquote.org/wiki/Frank_Westheimer).
 
 ![](images/frontiers_rcsds.png)
 
+E.g. <https://github.com/berkeley-stat159/project-epsilon>
+
 @millman2018rcsds
 
 # A specific proposal
