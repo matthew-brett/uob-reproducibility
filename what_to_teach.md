@@ -4,7 +4,7 @@ title: "What needs to change in the way we work and teach, to support reproducib
 author: "Matthew Brett"
 linkcolor: blue
 urlcolor: blue
-bibliography: [matthew_brett.bib, data-science-bib/data_science.bib]
+bibliography: [data-science-bib/data_science.bib, matthew_brett.bib]
 <#ifndef HANDOUT>
 suppress-bibliography: true
 <#endif>
@@ -33,10 +33,11 @@ suppress-bibliography: true
 
 # Computational reproducibility
 
-> An article about computational science in a scientific publication is not the
-scholarship itself, it is merely advertising of the scholarship. The actual
-scholarship is the complete software development environment and the complete
-set of instructions which generated the figures — @buckheit1995wavelab
+> An article about computational science in a scientific publication is **not**
+> the scholarship itself, it is merely **advertising** of the scholarship. The
+> actual scholarship is the complete software development environment and the
+> complete set of instructions which generated the figures —
+> @buckheit1995wavelab (emphasis in original).
 
 # Reproducibility as process
 
